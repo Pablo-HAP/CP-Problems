@@ -9,12 +9,12 @@ add_executable(LPC twosum.cpp
         "Generalized Matrioshkas.cpp"
         "subarray sums 1.cpp"
         "Eliminating Ballons.cpp"
-        towers.cpp
+        "towers.cpp"
         "New year and hurry.cpp"
         "Binary search.cpp"
         "coins and triangle.cpp"
         "The Kth Time Query.cpp"
-        Eko.cpp
+        "Eko.cpp"
         "corona virus.cpp"
         "Panoramix's Prediction.cpp"
         "A problem of Backtracking.cpp"
@@ -22,7 +22,7 @@ add_executable(LPC twosum.cpp
         "Stone Pile.cpp"
         "Making Jumps.cpp"
         "Water Buying .cpp"
-        Apartments.cpp
+        "Apartments.cpp"
         "I AM VERY BUSY.cpp"
         "Stalin Sort.cpp"
         "Running Median Again.cpp"
@@ -31,6 +31,11 @@ add_executable(LPC twosum.cpp
         "Hit the Lottery.cpp"
         "Coin Combinations I.cpp"
         "Book Shop.cpp"
-        "cmake-build-debug/Cut Ribbon.cpp"
         "Cut Ribbon.cpp"
-        "Cut Ribbon.cpp")
+        "LCS.cpp"
+        Labyrinth.cpp
+        "Building Roads.cpp"
+        "Message Route.cpp"
+        "Building Teams.cpp"
+        "Round Trip.cpp"
+        Monsters.cpp)
