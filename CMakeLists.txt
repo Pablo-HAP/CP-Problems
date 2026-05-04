@@ -38,4 +38,12 @@ add_executable(LPC twosum.cpp
         "Message Route.cpp"
         "Building Teams.cpp"
         "Round Trip.cpp"
-        Monsters.cpp)
+        Monsters.cpp
+        Friends.cpp
+        "Galactic Bonding.cpp"
+        "Is it a tree.cpp"
+        Cthulhu.cpp
+        Party.cpp
+        "Tree Diameter.cpp"
+        k-tree.cpp
+        Journey.cpp)
