@@ -46,4 +46,10 @@ add_executable(LPC twosum.cpp
         Party.cpp
         "Tree Diameter.cpp"
         k-tree.cpp
-        Journey.cpp)
+        Journey.cpp
+        "Shortest Routes I.cpp"
+        "Shortest Routes II.cpp"
+        Dijkstra.cpp
+        Ford-Bellman.cpp
+        "High Score.cpp"
+        "Flight Discount.cpp")
