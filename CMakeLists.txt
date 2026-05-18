@@ -52,4 +52,10 @@ add_executable(LPC twosum.cpp
         Dijkstra.cpp
         Ford-Bellman.cpp
         "High Score.cpp"
-        "Flight Discount.cpp")
+        "Flight Discount.cpp"
+        "Hongcow Builds A Nation.cpp"
+        "Road Reparation.cpp"
+        "Road Construction.cpp"
+        Hierarchy.cpp
+        "Help the old King.cpp"
+        Modems.cpp)
